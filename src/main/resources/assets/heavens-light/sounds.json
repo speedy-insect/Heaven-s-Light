@@ -1,0 +1,38 @@
+{
+  "heavenly_choir": {
+    "category": "ambient",
+    "subtitle": "subtitles.heavens-light.heavenly_choir",
+    "sounds": [
+      {
+        "name": "heavens-light:heavenly_choir",
+        "volume": 0.8,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  },
+  "vision_ambient": {
+    "category": "ambient",
+    "subtitle": "subtitles.heavens-light.vision_ambient",
+    "sounds": [
+      {
+        "name": "heavens-light:vision_ambient",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": true
+      }
+    ]
+  },
+  "gentle_harp": {
+    "category": "ambient",
+    "subtitle": "subtitles.heavens-light.gentle_harp",
+    "sounds": [
+      {
+        "name": "heavens-light:gentle_harp",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "stream": false
+      }
+    ]
+  }
+}

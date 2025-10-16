@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.heavenslight.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "heavens-light.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ClientPlayerEntityMixin",
+    "DeathScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "subtitles.heavens-light.heavenly_choir": "Heavenly choir sings",
+  "subtitles.heavens-light.vision_ambient": "Peaceful ambience",
+  "subtitles.heavens-light.gentle_harp": "Gentle harp melody",
+  
+  "config.heavens-light.title": "Heaven's Light Configuration",
+  "config.heavens-light.entity_type": "Divine Entity Type",
+  "config.heavens-light.entity_type.jesus": "Jesus Figure",
+  "config.heavens-light.entity_type.angel": "Angel",
+  "config.heavens-light.entity_type.light_being": "Being of Light",
+  "config.heavens-light.health_threshold": "Vision Health Threshold",
+  "config.heavens-light.vision_duration": "Vision Duration (seconds)",
+  "config.heavens-light.death_sequence_duration": "Death Sequence Duration (seconds)",
+  "config.heavens-light.enable_sounds": "Enable Heavenly Sounds",
+  "config.heavens-light.sound_volume": "Sound Volume"
+}

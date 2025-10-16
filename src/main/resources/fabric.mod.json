@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "heavens-light",
+  "version": "${version}",
+  "name": "Heaven's Light",
+  "description": "A peaceful and transcendent experience for Minecraft's death mechanic",
+  "authors": [
+    "HeavensLight Team"
+  ],
+  "contact": {
+    "homepage": "https://github.com/heavenslight/heavens-light",
+    "sources": "https://github.com/heavenslight/heavens-light"
+  },
+  "license": "MIT",
+  "icon": "assets/heavens-light/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.heavenslight.HeavensLightMod"
+    ],
+    "client": [
+      "com.heavenslight.client.HeavensLightClient"
+    ]
+  },
+  "mixins": [
+    "heavens-light.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
